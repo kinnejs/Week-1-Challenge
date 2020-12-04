@@ -1,0 +1,14 @@
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Challenger_11_12_2020.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Challenger_11_12_2020.pdb
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\obj\Debug\Challenger_11_12_2020.csprojAssemblyReference.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\obj\Debug\Challenger_11_12_2020.csproj.CoreCompileInputs.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\obj\Debug\Challenger_11_12_2020.csproj.CopyComplete
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\obj\Debug\Challenger_11_12_2020.dll
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\Challenger_11_12_2020\obj\Debug\Challenger_11_12_2020.pdb
